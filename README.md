@@ -2,6 +2,7 @@
 
 <h3><i><font color="red">this is the first step to creating your webpage</font></i></h3>
 <hr>
+<p1>
 <font color="white"><b>this is me trying bold</b></font>
 
 
@@ -12,6 +13,8 @@
 
 
 <a href="https://www.facebook.com/ben.efrah"> this is your FB page</a>
+
+</p1>
 
 <hr>
 
