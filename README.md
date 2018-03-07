@@ -4,9 +4,9 @@
 <hr>
 
 <pre>
-- <font color="white"><b>this is me trying bold</b></font>
+- <b>this is me trying bold</b>
 
-- <font color="white"><i>this is me trying italics</i></font>
+- white"><i>this is me trying italics</i>
 
 - <font color="blue">this is me trying colours</font>
 
