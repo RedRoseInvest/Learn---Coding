@@ -6,7 +6,7 @@
 <pre>
 - <b>this is me trying bold</b>
 
-- white"><i>this is me trying italics</i>
+- <i>this is me trying italics</i>
 
 - <font color="blue">this is me trying colours</font>
 
